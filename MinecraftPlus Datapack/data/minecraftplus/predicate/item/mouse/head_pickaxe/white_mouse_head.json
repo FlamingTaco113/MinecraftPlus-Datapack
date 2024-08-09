@@ -1,0 +1,15 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "armor.head": {
+          "items": ["minecraft:music_disc_13"],
+          "components": {
+            "minecraft:custom_data": {"white_mouse":"1"}
+          }
+        }
+      }
+    }
+  }
+  

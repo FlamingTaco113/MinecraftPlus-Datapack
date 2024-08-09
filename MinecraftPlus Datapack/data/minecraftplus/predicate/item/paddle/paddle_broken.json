@@ -1,0 +1,15 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "weapon.mainhand": {
+          "items": ["minecraft:music_disc_13"],
+          "components": {
+            "minecraft:custom_data": {"paddle":"1"},
+            "minecraft:damage": 250
+          }
+        }
+      }
+    }
+  }

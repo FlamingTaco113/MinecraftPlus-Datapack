@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sticky_piston",
+  "pattern": [
+    "s",
+    "p"
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:piston"
+    },
+    "s": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "id": "minecraft:sticky_piston"
+  }
+}

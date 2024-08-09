@@ -1,0 +1,15 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "mainhand": {
+          "items": "minecraft:leather_helmet",
+          "predicates": {
+            "minecraft:custom_data": {"brown_mouse":"1"}
+          }
+        }
+      }
+    }
+  }
+  

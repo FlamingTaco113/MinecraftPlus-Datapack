@@ -1,0 +1,13 @@
+[
+  {
+    "function": "minecraft:set_item",
+    "item": "minecraft:leather_helmet"
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:max_damage": 64,
+      "custom_model_data" : 1131143
+    }
+  }
+]

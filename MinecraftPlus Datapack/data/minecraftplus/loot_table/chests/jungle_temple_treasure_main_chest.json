@@ -1,0 +1,38 @@
+{
+    "pools": [
+      {
+        "rolls": 4,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:potion",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:potion_contents": {
+                    "custom_color": 14270531,
+                    "custom_effects": [
+                      {
+                        "id": "minecraft:haste",
+                        "amplifier": 1,
+                        "duration": 18000
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "function": "minecraft:set_name",
+                "target": "item_name",
+                "name": {
+                  "translate": "item.mcplus.haste_potion"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

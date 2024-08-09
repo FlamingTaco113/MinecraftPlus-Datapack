@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "group": "sandwhich",
+  "pattern": [
+    "b",
+    "f",
+    "b"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:bread"
+    },
+    "f": {
+      "item": "minecraft:cooked_mutton"
+    }
+  },
+  "result": {
+    "id": "minecraft:poisonous_potato",
+    "components": {
+      "minecraft:item_name": "{\"translate\":\"item.mcplus.sandwhich_mutton\"}",
+      "minecraft:custom_model_data": 1131135,
+      "minecraft:food": {
+        "nutrition": 16,
+        "saturation": 24,
+        "eat_seconds": 2
+      },
+      "minecraft:max_stack_size": 16
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "iron_bow",
+    "pattern": [
+      " is",
+      "/ s",
+      " is"
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:string"
+      },
+      "/": {
+        "item": "minecraft:stick"
+      },
+      "i": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "id": "minecraft:bow",
+      "components": {
+        "minecraft:custom_model_data": 1131131,
+        "minecraft:max_damage": 542,
+        "minecraft:item_name": "{\"translate\":\"item.mcplus.iron_bow\"}"
+      }
+    }
+  }
+  

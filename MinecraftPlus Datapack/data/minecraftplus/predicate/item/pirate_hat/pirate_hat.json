@@ -1,0 +1,15 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "armor.head": {
+          "items": ["minecraft:stone_pickaxe"],
+          "components": {
+            "minecraft:custom_data": {"pirate_hat":"1"}
+          }
+        }
+      }
+    }
+  }
+  

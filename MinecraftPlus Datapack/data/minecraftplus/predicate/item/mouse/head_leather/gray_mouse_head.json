@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "slots": {
+      "armor.head": {
+        "items": ["minecraft:leather_helmet"],
+        "components": {
+          "minecraft:custom_data": {"gray_mouse":"1"}
+        }
+      }
+    }
+  }
+}
