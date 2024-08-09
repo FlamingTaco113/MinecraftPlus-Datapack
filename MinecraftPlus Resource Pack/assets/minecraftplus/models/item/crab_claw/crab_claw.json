@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "minecraftplus:item/crab_claw/crab_claw"
+	}
+}

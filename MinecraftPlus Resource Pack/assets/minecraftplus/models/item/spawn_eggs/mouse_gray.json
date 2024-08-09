@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraftplus:item/spawn_eggs/mouse_gray_spawn_egg"
+    }
+}
