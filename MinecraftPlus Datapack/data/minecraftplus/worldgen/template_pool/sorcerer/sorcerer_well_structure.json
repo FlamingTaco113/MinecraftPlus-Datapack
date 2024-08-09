@@ -1,0 +1,16 @@
+{
+  "name": "minecraftplus:sorcerer/sorcerer_well",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraftplus:sorcerer/well",
+        "override_liquid_settings": "ignore_waterlogging",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "wild_texture": "minecraftplus:entity/wolf/ender_wolf",
+    "angry_texture": "minecraftplus:entity/wolf/ender_wolf_angry",
+    "tame_texture": "minecraftplus:entity/wolf/ender_wolf_tame",
+    "biomes": [
+      "minecraft:end_highlands",
+      "minecraft:end_midlands",
+      "minecraft:end_barrens"
+    ]
+  }
+  

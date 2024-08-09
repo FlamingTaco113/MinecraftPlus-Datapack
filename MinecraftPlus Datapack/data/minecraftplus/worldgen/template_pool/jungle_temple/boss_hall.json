@@ -1,0 +1,16 @@
+{
+    "name": "minecraftplus:jungle_temple/boss_hall",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/boss_rooms/boss_hall",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

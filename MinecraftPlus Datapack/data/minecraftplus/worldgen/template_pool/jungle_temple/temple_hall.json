@@ -1,0 +1,256 @@
+{
+    "name": "minecraftplus:jungle_temple/temple_hall",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common1",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common2",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 3,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common3",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common4",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 3,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common5",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common6",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common7",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common8",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/common9",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare1",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare2",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare3",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare4",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare5",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare6",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare7",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare8",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/rare9",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 8,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/hall1",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 8,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/hall2",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 8,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/hall3",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 3,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/arena1",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 3,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/arena2",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 3,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/arena3",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 4,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/temple_hall/fireball",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

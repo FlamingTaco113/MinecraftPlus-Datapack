@@ -1,0 +1,46 @@
+{
+    "name": "minecraftplus:jungle_temple/long_temple_hall",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+          "weight": 6,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "minecraftplus:jungle_temple/long_temple_hall/long_hall1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "projection": "rigid",
+            "processors": "minecraft:empty"
+          }
+        },
+        {
+          "weight": 6,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "minecraftplus:jungle_temple/long_temple_hall/long_hall2",
+            "override_liquid_settings": "ignore_waterlogging",
+            "projection": "rigid",
+            "processors": "minecraft:empty"
+          }
+        },
+        {
+          "weight": 6,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "minecraftplus:jungle_temple/long_temple_hall/long_hall3",
+            "override_liquid_settings": "ignore_waterlogging",
+            "projection": "rigid",
+            "processors": "minecraft:empty"
+          }
+        },
+        {
+          "weight": 6,
+          "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "minecraftplus:jungle_temple/long_temple_hall/long_hall4",
+            "override_liquid_settings": "ignore_waterlogging",
+            "projection": "rigid",
+            "processors": "minecraft:empty"
+          }
+        }
+    ]
+  }

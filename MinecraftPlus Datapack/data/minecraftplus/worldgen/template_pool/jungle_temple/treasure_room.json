@@ -1,0 +1,16 @@
+{
+    "name": "minecraftplus:jungle_temple/treasure_room",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "minecraftplus:jungle_temple/boss_rooms/treasure_room",
+          "override_liquid_settings": "ignore_waterlogging",
+          "projection": "rigid",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }

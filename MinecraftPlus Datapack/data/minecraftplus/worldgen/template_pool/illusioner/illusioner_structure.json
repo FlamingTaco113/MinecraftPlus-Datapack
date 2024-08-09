@@ -1,0 +1,16 @@
+{
+  "name": "minecraftplus:illusioner/illusioner_arena",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraftplus:illusioner/illusioner_arena",
+        "override_liquid_settings": "ignore_waterlogging",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
