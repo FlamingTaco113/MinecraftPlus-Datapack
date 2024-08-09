@@ -22,8 +22,8 @@
           "type": {
             "tags": [
               {
-                "id": "minecraft:panic_causes",
-                "expected": true
+                "id": "minecraft:bypasses_armor",
+                "expected": false
               }
             ]
           }
