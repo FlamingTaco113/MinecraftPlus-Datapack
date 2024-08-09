@@ -1,0 +1,32 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:enchanted_golden_apple"
+      },
+      "title": {
+        "translate": "advancements.mcplus.husbandry.enchanted_apple.title"
+      },
+      "description": {
+        "translate": "advancements.mcplus.husbandry.enchanted_apple.description"
+      },
+      "frame": "challenge"
+    },
+    "parent": "minecraft:husbandry/root",
+    "criteria": {
+      "": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {}
+            }
+          ],
+          "item": {
+            "items": "minecraft:enchanted_golden_apple"
+          }
+        }
+      }
+    }
+  }

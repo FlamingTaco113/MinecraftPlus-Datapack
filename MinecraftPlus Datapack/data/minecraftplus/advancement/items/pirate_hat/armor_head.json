@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:leather_helmet",
+              "components": {
+                "minecraft:custom_data": {"pirate_hat":"1"}
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "minecraftplus:items/pirate_hat/head_check"
+    }
+  }
+  

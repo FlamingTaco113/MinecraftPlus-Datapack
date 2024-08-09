@@ -1,0 +1,34 @@
+{
+    "parent": "minecraftplus:recipes/root",
+    "criteria": {
+      "has_cooked_chicken": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:cooked_chicken"
+            }
+          ]
+        }
+      },
+      "has_the_recipe": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "minecraftplus:food/sandwhich/sandwhich_chicken"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_cooked_chicken",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "minecraftplus:food/sandwhich/sandwhich_chicken"
+      ]
+    }
+  }
+
+

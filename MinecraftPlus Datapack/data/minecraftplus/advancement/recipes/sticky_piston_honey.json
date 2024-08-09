@@ -1,0 +1,33 @@
+{
+    "parent": "minecraftplus:recipes/root",
+    "criteria": {
+      "has_honey_bottle": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:honey_bottle"
+            }
+          ]
+        }
+      },
+      "has_the_recipe": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "minecraftplus:items/sticky_piston/sticky_piston_honey"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_honey_bottle",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "minecraftplus:items/sticky_piston/sticky_piston_honey"
+      ]
+    }
+  }
+  

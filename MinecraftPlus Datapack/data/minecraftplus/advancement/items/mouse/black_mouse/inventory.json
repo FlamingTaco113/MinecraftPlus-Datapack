@@ -1,0 +1,27 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "slots": {
+            "occupied": {
+              "min": 0,
+              "max": 35
+            }
+          },
+          "items": [
+            {
+              "items": "minecraft:music_disc_13",
+              "components": {
+                "minecraft:custom_data": {"black_mouse":"1"}
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "minecraftplus:items/mouse/inventory/black_inventory"
+    }
+  }
+  

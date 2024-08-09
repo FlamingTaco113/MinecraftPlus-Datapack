@@ -1,0 +1,22 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:cake"
+      },
+      "title": {
+        "translate": "advancements.mcplus.husbandry.the_lie.title"
+      },
+      "description": {
+        "translate": "advancements.mcplus.husbandry.the_lie.description"
+      }
+    },
+    "parent": "minecraft:husbandry/plant_seed",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "minecraft:cake"
+        }
+      }
+    }
+}

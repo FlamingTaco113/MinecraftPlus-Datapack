@@ -1,0 +1,36 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:music_disc_13",
+        "components": {
+          "minecraft:custom_model_data": 1131134
+        }
+      },
+      "title": {
+        "translate": "advancements.mcplus.adventure.crab_claw.title"
+      },
+      "description": {
+        "translate": "advancements.mcplus.adventure.crab_claw.description"
+      },
+      "frame": "task",
+      "announce_to_chat": true
+    },
+    "parent": "minecraft:adventure/root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "player": [],
+          "items": [
+            {
+              "items": "minecraft:music_disc_13",
+              "components": {
+                "minecraft:custom_data": {"crab_claw":"1"}
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+  

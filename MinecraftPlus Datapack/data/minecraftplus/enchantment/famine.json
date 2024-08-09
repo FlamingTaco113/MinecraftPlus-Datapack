@@ -1,0 +1,47 @@
+{
+  "description": {
+    "translate": "enchantment.mcplus.famine"
+  },
+  "exclusive_set": "#minecraftplus:exclusive_set/mask_enchantments",
+  "supported_items": "#minecraft:swords",
+  "primary_items": "#minecraft:swords",
+  "weight": 1,
+  "max_level": 1,
+  "min_cost": {
+    "base": 30,
+    "per_level_above_first": 20
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 20
+  },
+  "anvil_cost": 0,
+  "slots": [
+    "any"
+  ],
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "enchanted": "attacker",
+        "affected": "victim",
+        "effect": {
+          "type": "minecraft:run_function",
+          "function": "minecraftplus:enchantments/hunger"
+        },
+        "requirements": {
+          "condition": "minecraft:entity_properties",
+          "entity": "attacker",
+          "predicate": {
+            "equipment": {
+              "head": {
+                "components": {
+                  "minecraft:custom_data": {"jungle_mask":"1"}
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

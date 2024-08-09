@@ -1,0 +1,33 @@
+{
+    "parent": "minecraftplus:recipes/root",
+    "criteria": {
+      "has_diamond": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "diamond"
+            }
+          ]
+        }
+      },
+      "has_the_recipe": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "minecraftplus:weapons/halberd/diamond_halberd"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_diamond",
+        "has_the_recipe"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "minecraftplus:weapons/halberd/diamond_halberd"
+      ]
+    }
+  }
+  

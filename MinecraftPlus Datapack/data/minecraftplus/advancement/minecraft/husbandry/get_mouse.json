@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_13",
+      "components": {
+        "minecraft:custom_model_data": 1131153
+      }
+    },
+    "title": {
+      "translate": "advancements.mcplus.husbandry.get_mouse.title"
+    },
+    "description": {
+      "translate": "advancements.mcplus.husbandry.get_mouse.description"
+    }
+  },
+  "parent": "minecraft:husbandry/tame_an_animal",
+  "criteria": {
+    "get_mouse": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

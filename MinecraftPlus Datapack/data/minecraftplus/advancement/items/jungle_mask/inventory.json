@@ -1,0 +1,27 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "slots": {
+            "occupied": {
+              "min": 0,
+              "max": 35
+            }
+          },
+          "items": [
+            {
+              "items": "minecraft:stone_pickaxe",
+              "components": {
+                "minecraft:custom_data": {"jungle_mask":"1"}
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "minecraftplus:items/jungle_mask/inventory"
+    }
+  }
+  

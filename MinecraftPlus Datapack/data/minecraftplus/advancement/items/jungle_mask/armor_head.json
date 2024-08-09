@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:leather_helmet",
+              "components": {
+                "minecraft:custom_data": {"jungle_mask":"1"}
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "minecraftplus:items/jungle_mask/head_check"
+    }
+  }
+  
