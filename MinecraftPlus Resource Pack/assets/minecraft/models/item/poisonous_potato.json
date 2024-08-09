@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/poisonous_potato"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1131131}, "model": "minecraftplus:item/food/ice_cream/vanilla_ice_cream"},
+		{"predicate": {"custom_model_data":1131132}, "model": "minecraftplus:item/food/ice_cream/chocolate_ice_cream"},
+
+		{"predicate": {"custom_model_data":1131133}, "model": "minecraftplus:item/food/sandwhich/sandwhich_beef"},
+		{"predicate": {"custom_model_data":1131134}, "model": "minecraftplus:item/food/sandwhich/sandwhich_chicken"},
+		{"predicate": {"custom_model_data":1131135}, "model": "minecraftplus:item/food/sandwhich/sandwhich_mutton"},
+		{"predicate": {"custom_model_data":1131136}, "model": "minecraftplus:item/food/sandwhich/sandwhich_pork"},
+		{"predicate": {"custom_model_data":1131137}, "model": "minecraftplus:item/food/sandwhich/sandwhich_rabbit"}
+	]
+}

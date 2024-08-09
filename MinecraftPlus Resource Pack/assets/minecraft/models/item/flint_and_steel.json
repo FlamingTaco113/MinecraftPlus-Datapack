@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/flint_and_steel"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1131131}, "model": "minecraftplus:item/fire_wand/fire_wand"}
+	]
+}

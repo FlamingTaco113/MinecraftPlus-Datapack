@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1131131}, "model": "minecraftplus:item/halberd/iron_halberd"},
+		{"predicate": {"custom_model_data":1131132}, "model": "minecraftplus:item/pirate/cutlass"}
+	]
+}

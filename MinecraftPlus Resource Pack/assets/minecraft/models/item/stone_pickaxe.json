@@ -1,0 +1,55 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1131131}, "model": "minecraftplus:entity/raccoon/raccoon_idle"},
+		{"predicate": {"custom_model_data":1131132}, "model": "minecraftplus:entity/raccoon/raccoon_walk"},
+		{"predicate": {"custom_model_data":1131133}, "model": "minecraftplus:entity/raccoon/raccoon_wash"},
+
+		{"predicate": {"custom_model_data":1131134}, "model": "minecraftplus:entity/sorcerer/head"},
+		{"predicate": {"custom_model_data":1131135}, "model": "minecraftplus:entity/sorcerer/idle"},
+		{"predicate": {"custom_model_data":1131136}, "model": "minecraftplus:entity/sorcerer/walking"},
+		{"predicate": {"custom_model_data":1131137}, "model": "minecraftplus:entity/sorcerer/spell"},
+
+		{"predicate": {"custom_model_data":1131138}, "model": "minecraftplus:entity/hedgehog/hedgehog_idle"},
+		{"predicate": {"custom_model_data":1131139}, "model": "minecraftplus:entity/hedgehog/hedgehog_walk"},
+		{"predicate": {"custom_model_data":1131140}, "model": "minecraftplus:entity/hedgehog/sonic_idle"},
+		{"predicate": {"custom_model_data":1131141}, "model": "minecraftplus:entity/hedgehog/sonic_walk"},
+
+		{"predicate": {"custom_model_data":1131142}, "model": "minecraftplus:armor/pirate/pirate_hat"},
+		{"predicate": {"custom_model_data":1131143}, "model": "minecraftplus:armor/pirate/hook"},
+		{"predicate": {"custom_model_data":1131144}, "model": "minecraftplus:armor/pirate/bandana"},
+		{"predicate": {"custom_model_data":1131145}, "model": "minecraftplus:armor/pirate/eyepatch"},
+
+		{"predicate": {"custom_model_data":1131146}, "model": "minecraftplus:armor/labyrinth_keeper/jungle_mask"},
+
+		{"predicate": {"custom_model_data":1131147}, "model": "minecraftplus:entity/labyrinth_keeper/head"},
+		{"predicate": {"custom_model_data":1131148}, "model": "minecraftplus:entity/labyrinth_keeper/idle"},
+		{"predicate": {"custom_model_data":1131149}, "model": "minecraftplus:entity/labyrinth_keeper/walking"},
+		{"predicate": {"custom_model_data":1131150}, "model": "minecraftplus:entity/labyrinth_keeper/attack"},
+
+		{"predicate": {"custom_model_data":1131151}, "model": "minecraftplus:entity/kiwi_bird/kiwi_bird"},
+		{"predicate": {"custom_model_data":1131152}, "model": "minecraftplus:entity/kiwi_bird/kiwi_bird_walk"},
+
+		{"predicate": {"custom_model_data":1131153}, "model": "minecraftplus:entity/mouse/mouse_gray"},
+		{"predicate": {"custom_model_data":1131154}, "model": "minecraftplus:entity/mouse/mouse_black"},
+		{"predicate": {"custom_model_data":1131155}, "model": "minecraftplus:entity/mouse/mouse_brown"},
+		{"predicate": {"custom_model_data":1131156}, "model": "minecraftplus:entity/mouse/mouse_white"},
+
+		{"predicate": {"custom_model_data":1131157}, "model": "minecraftplus:entity/alligator/alligator_idle"},
+		{"predicate": {"custom_model_data":1131158}, "model": "minecraftplus:entity/alligator/alligator_walk"},
+		{"predicate": {"custom_model_data":1131159}, "model": "minecraftplus:entity/alligator/alligator_attack_idle"},
+		{"predicate": {"custom_model_data":1131160}, "model": "minecraftplus:entity/alligator/alligator_attack_walk"},
+
+		{"predicate": {"custom_model_data":1131161}, "model": "minecraftplus:entity/moss_walker/moss_walker_head"},
+		{"predicate": {"custom_model_data":1131162}, "model": "minecraftplus:entity/moss_walker/moss_walker_arm"},
+
+		{"predicate": {"custom_model_data":1131163}, "model": "minecraftplus:entity/crab/crab_idle"},
+		{"predicate": {"custom_model_data":1131164}, "model": "minecraftplus:entity/crab/crab_walk"},
+		{"predicate": {"custom_model_data":1131165}, "model": "minecraftplus:entity/crab/crab_attack_idle"},
+		{"predicate": {"custom_model_data":1131166}, "model": "minecraftplus:entity/crab/crab_attack_walk"}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_13"
+  },
+  "overrides": [
+		{"predicate": {"custom_model_data":1131131}, "model": "minecraftplus:item/mining_lantern/mining_lantern"},
+		{"predicate": {"custom_model_data":1131132}, "model": "minecraftplus:item/fire_wand/fire_wand"},
+		{"predicate": {"custom_model_data":1131133}, "model": "minecraftplus:item/paddle/paddle"},
+
+		{"predicate": {"custom_model_data":1131134}, "model": "minecraftplus:item/crab_claw/crab_claw"},
+
+		{"predicate": {"custom_model_data":1131153}, "model": "minecraftplus:entity/mouse/mouse_gray_held"},
+		{"predicate": {"custom_model_data":1131154}, "model": "minecraftplus:entity/mouse/mouse_black_held"},
+		{"predicate": {"custom_model_data":1131155}, "model": "minecraftplus:entity/mouse/mouse_brown_held"},
+		{"predicate": {"custom_model_data":1131156}, "model": "minecraftplus:entity/mouse/mouse_white_held"}
+	]
+}

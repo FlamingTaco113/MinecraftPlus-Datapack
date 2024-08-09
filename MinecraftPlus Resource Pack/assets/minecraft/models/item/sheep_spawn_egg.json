@@ -1,0 +1,22 @@
+{
+	"parent": "minecraft:item/template_spawn_egg",
+	"textures": {
+		"layer0": "item/spawn_egg"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1131131}, "model": "minecraftplus:item/spawn_eggs/alligator"},
+		{"predicate": {"custom_model_data":1131132}, "model": "minecraftplus:item/spawn_eggs/crab"},
+		{"predicate": {"custom_model_data":1131133}, "model": "minecraftplus:item/spawn_eggs/hedgehog"},
+		{"predicate": {"custom_model_data":1131134}, "model": "minecraftplus:item/spawn_eggs/kiwi_bird"},
+		{"predicate": {"custom_model_data":1131135}, "model": "minecraftplus:item/spawn_eggs/raccoon"},
+
+		{"predicate": {"custom_model_data":1131136}, "model": "minecraftplus:item/spawn_eggs/mouse_gray"},
+		{"predicate": {"custom_model_data":1131137}, "model": "minecraftplus:item/spawn_eggs/mouse_black"},
+		{"predicate": {"custom_model_data":1131138}, "model": "minecraftplus:item/spawn_eggs/mouse_brown"},
+		{"predicate": {"custom_model_data":1131139}, "model": "minecraftplus:item/spawn_eggs/mouse_white"}
+
+
+
+	]
+}

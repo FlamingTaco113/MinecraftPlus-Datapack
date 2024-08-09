@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_helmet",
+    		"layer1": "item/leather_helmet_overlay"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1131142}, "model":"minecraftplus:armor/pirate/pirate_hat"},
+		{"predicate": {"custom_model_data":1131143}, "model":"minecraftplus:armor/labyrinth_keeper/jungle_mask"},
+
+		{"predicate": {"custom_model_data":1131153}, "model": "minecraftplus:entity/mouse/mouse_gray_held"},
+		{"predicate": {"custom_model_data":1131154}, "model": "minecraftplus:entity/mouse/mouse_black_held"},
+		{"predicate": {"custom_model_data":1131155}, "model": "minecraftplus:entity/mouse/mouse_brown_held"},
+		{"predicate": {"custom_model_data":1131156}, "model": "minecraftplus:entity/mouse/mouse_white_held"}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":12345678}, "model": "item/birby_feathers/halberd/netherite_halberd"}
+	]
+}
