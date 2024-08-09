@@ -1,0 +1,1 @@
+execute as @e[type=zombie,tag=!mcplusnot_mob] at @s if biome ~ ~ ~ minecraft:lush_caves run function minecraftplus:entity/moss_walker/moss_walker_spawn_check

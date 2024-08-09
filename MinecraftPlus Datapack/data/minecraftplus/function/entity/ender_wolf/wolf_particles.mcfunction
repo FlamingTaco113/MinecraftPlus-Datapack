@@ -1,0 +1,1 @@
+execute at @s run particle minecraft:reverse_portal ~ ~0.5 ~ 0.2 0.2 0.2 0.01 1 normal

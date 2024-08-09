@@ -1,0 +1,1 @@
+function minecraftplus:entity/pirate/pirate_mob_reached

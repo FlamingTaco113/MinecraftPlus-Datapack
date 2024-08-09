@@ -1,0 +1,1 @@
+effect give @s minecraft:nausea 5 1

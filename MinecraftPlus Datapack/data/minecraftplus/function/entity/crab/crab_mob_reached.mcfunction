@@ -1,0 +1,2 @@
+execute as @e[type=#minecraftplus:naturally_spawning_passive] if entity @s[tag=!mcplus.baby,tag=!mcplusnot_mob] at @s if biome ~ ~ ~ #minecraft:is_beach run function minecraftplus:entity/crab/crab_spawn_check
+execute as @e[type=turtle] if entity @s[tag=!mcplus.baby,tag=!mcplusnot_mob] at @s if biome ~ ~ ~ #minecraft:is_beach run function minecraftplus:entity/crab/crab_spawn_check

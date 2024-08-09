@@ -1,0 +1,1 @@
+execute as @e[tag=mcplus.jungle_temple_fireball] run function minecraftplus:entity/jungle_temple_fireball/mining_fatigue

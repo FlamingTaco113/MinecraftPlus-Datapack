@@ -1,0 +1,1 @@
+execute at @s run effect give @a[distance=..160,gamemode=!creative,gamemode=!spectator] mining_fatigue 15 2 true

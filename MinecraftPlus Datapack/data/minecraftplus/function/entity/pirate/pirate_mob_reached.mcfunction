@@ -1,0 +1,1 @@
+execute as @e[type=drowned,tag=!mcplusnot_mob] at @s if biome ~ ~ ~ #minecraft:is_ocean run function minecraftplus:entity/pirate/pirate_spawn_check

@@ -1,0 +1,4 @@
+# Standing Still
+execute if entity @s[nbt={Motion:[0.0,0.0,0.0]}] run data merge entity @s {HandItems:[{id:"minecraft:stone_pickaxe",count:1,components:{"minecraft:custom_model_data":1131151,"minecraft:enchantments":{levels:{"minecraft:vanishing_curse":1},show_in_tooltip:false},"minecraft:enchantment_glint_override":false}},{}],HandDropChances:[-10000.0F,-10000.0F]}
+# Walking
+execute unless entity @s[nbt={Motion:[0.0,0.0,0.0]}] run data merge entity @s {HandItems:[{id:"minecraft:stone_pickaxe",count:1,components:{"minecraft:custom_model_data":1131152,"minecraft:enchantments":{levels:{"minecraft:vanishing_curse":1},show_in_tooltip:false},"minecraft:enchantment_glint_override":false}},{}],HandDropChances:[-10000.0F,-10000.0F]}

@@ -1,0 +1,7 @@
+effect give @s[name=Sonic] speed 1 1 true
+
+execute if entity @s[nbt={Motion:[0.0,0.0,0.0]},name=!Sonic] run data merge entity @s {HandItems:[{id:"minecraft:stone_pickaxe",count:1,components:{"minecraft:custom_model_data":1131138,"minecraft:enchantments":{levels:{"minecraft:vanishing_curse":1},show_in_tooltip:false},"minecraft:enchantment_glint_override":false}},{}],HandDropChances:[-10000.0F,-10000.0F]}
+execute unless entity @s[nbt={Motion:[0.0,0.0,0.0]}] if entity @s[name=!Sonic] run data merge entity @s {HandItems:[{id:"minecraft:stone_pickaxe",count:1,components:{"minecraft:custom_model_data":1131139,"minecraft:enchantments":{levels:{"minecraft:vanishing_curse":1},show_in_tooltip:false},"minecraft:enchantment_glint_override":false}},{}],HandDropChances:[-10000.0F,-10000.0F]}
+
+execute if entity @s[nbt={Motion:[0.0,0.0,0.0]},name=Sonic] run data merge entity @s {HandItems:[{id:"minecraft:stone_pickaxe",count:1,components:{"minecraft:custom_model_data":1131140,"minecraft:enchantments":{levels:{"minecraft:vanishing_curse":1},show_in_tooltip:false},"minecraft:enchantment_glint_override":false}},{}],HandDropChances:[-10000.0F,-10000.0F]}
+execute unless entity @s[nbt={Motion:[0.0,0.0,0.0]}] if entity @s[name=Sonic] run data merge entity @s {HandItems:[{id:"minecraft:stone_pickaxe",count:1,components:{"minecraft:custom_model_data":1131141,"minecraft:enchantments":{levels:{"minecraft:vanishing_curse":1},show_in_tooltip:false},"minecraft:enchantment_glint_override":false}},{}],HandDropChances:[-10000.0F,-10000.0F]}

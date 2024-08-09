@@ -1,0 +1,10 @@
+scoreboard players set @s mcplus.animation_timer 5
+
+summon potion ~ ~ ~ {Motion:[0.2,0.5,0.0],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}
+summon potion ~ ~ ~ {Motion:[0.15,0.5,0.15],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}
+summon potion ~ ~ ~ {Motion:[0.0,0.5,0.2],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}
+summon potion ~ ~ ~ {Motion:[0.0,0.5,-0.2],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}
+summon potion ~ ~ ~ {Motion:[-0.15,0.5,-0.15],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}
+summon potion ~ ~ ~ {Motion:[-0.2,0.5,0.0],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}
+summon potion ~ ~ ~ {Motion:[-0.15,0.5,0.15],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}
+summon potion ~ ~ ~ {Motion:[0.15,0.5,-0.15],Item:{id:"minecraft:splash_potion",count:1,components:{"minecraft:potion_contents":{potion:"minecraft:poison",custom_effects:[{id:"minecraft:poison",amplifier:2,duration:1}]}}}}

@@ -1,0 +1,1 @@
+execute as @s if predicate minecraftplus:entity/ambient_noise at @s run function minecraftplus:entity/entity_death/ambient_sound

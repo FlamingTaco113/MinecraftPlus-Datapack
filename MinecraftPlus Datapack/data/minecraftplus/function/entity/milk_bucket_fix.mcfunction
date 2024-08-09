@@ -1,0 +1,1 @@
+data modify entity @s[nbt=!{NoAI:1b}] HandItems[0].components."minecraft:custom_data".fix_milk_bucket set value "idk why this works but it does"

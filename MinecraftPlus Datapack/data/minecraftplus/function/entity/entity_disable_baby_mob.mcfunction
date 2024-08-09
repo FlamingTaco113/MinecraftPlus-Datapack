@@ -1,0 +1,1 @@
+execute as @e[nbt=!{Age:0},type=#minecraftplus:baby_list,tag=!mcplus.baby] run tag @s add mcplus.baby

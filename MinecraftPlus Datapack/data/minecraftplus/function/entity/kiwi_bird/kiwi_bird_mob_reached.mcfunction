@@ -1,0 +1,1 @@
+execute as @e[type=#minecraftplus:naturally_spawning_passive] if entity @s[tag=!mcplus.baby,tag=!mcplusnot_mob] at @s if biome ~ ~ ~ #minecraft:is_jungle run function minecraftplus:entity/kiwi_bird/kiwi_bird_spawn_check

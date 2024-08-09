@@ -1,0 +1,1 @@
+execute as @e[type=sheep] if entity @s[tag=!mcplus.baby,tag=!mcplusnot_mob] at @s if biome ~ ~ ~ #minecraft:is_forest run function minecraftplus:entity/raccoon/raccoon_spawn_check

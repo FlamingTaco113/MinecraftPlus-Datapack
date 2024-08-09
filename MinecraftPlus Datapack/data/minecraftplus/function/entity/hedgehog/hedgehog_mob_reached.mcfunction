@@ -1,0 +1,1 @@
+execute as @e[type=chicken] if entity @s[tag=!mcplus.baby,tag=!mcplusnot_mob] at @s unless biome ~ ~ ~ #minecraft:is_jungle unless biome ~ ~ ~ #minecraft:is_mountain unless biome ~ ~ ~ #minecraft:is_badlands unless biome ~ ~ ~ #minecraft:is_savanna run function minecraftplus:entity/hedgehog/hedgehog_spawn_check
