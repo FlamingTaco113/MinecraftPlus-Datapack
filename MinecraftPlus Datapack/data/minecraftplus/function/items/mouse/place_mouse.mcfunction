@@ -1,0 +1,4 @@
+execute if predicate minecraftplus:technical/is_sneaking if predicate minecraftplus:item/mouse/holding_mouse/gray_mouse at @s run function minecraftplus:items/mouse/summon_mouse/mouse_gray
+execute if predicate minecraftplus:technical/is_sneaking if predicate minecraftplus:item/mouse/holding_mouse/black_mouse at @s run function minecraftplus:items/mouse/summon_mouse/mouse_black
+execute if predicate minecraftplus:technical/is_sneaking if predicate minecraftplus:item/mouse/holding_mouse/white_mouse at @s run function minecraftplus:items/mouse/summon_mouse/mouse_white
+execute if predicate minecraftplus:technical/is_sneaking if predicate minecraftplus:item/mouse/holding_mouse/brown_mouse at @s run function minecraftplus:items/mouse/summon_mouse/mouse_brown

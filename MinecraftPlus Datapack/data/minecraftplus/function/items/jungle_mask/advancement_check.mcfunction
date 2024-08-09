@@ -1,0 +1,2 @@
+execute unless predicate minecraftplus:item/jungle_mask/jungle_mask_check run function minecraftplus:items/jungle_mask/advancement_revoke
+advancement revoke @s only minecraftplus:items/jungle_mask/armor_head

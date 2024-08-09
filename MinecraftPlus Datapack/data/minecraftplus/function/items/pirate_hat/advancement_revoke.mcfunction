@@ -1,0 +1,1 @@
+advancement revoke @s only minecraftplus:items/pirate_hat/inventory

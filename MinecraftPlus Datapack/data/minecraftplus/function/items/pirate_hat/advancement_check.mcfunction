@@ -1,0 +1,2 @@
+execute unless predicate minecraftplus:item/pirate_hat/pirate_hat_check run function minecraftplus:items/pirate_hat/advancement_revoke
+advancement revoke @s only minecraftplus:items/pirate_hat/armor_head

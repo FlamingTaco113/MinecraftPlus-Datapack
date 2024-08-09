@@ -1,0 +1,39 @@
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:0b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.0 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:1b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.1 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:2b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.2 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:3b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.3 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:4b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.4 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:5b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.5 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:6b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.6 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:7b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.7 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:8b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] hotbar.8 minecraftplus:item/pirate/pirate_hat_inventory
+
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:9b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.0 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:10b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.1 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:11b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.2 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:12b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.3 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:13b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.4 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:14b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.5 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:15b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.6 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:16b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.7 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:17b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.8 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:18b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.9 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:19b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.10 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:20b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.11 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:21b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.12 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:22b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.13 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:23b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.14 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:24b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.15 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:25b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.16 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:26b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.17 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:27b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.18 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:28b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.19 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:29b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.20 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:30b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.21 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:31b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.22 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:32b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.23 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:33b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.24 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:34b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.25 minecraftplus:item/pirate/pirate_hat_inventory
+item modify entity @s[nbt={Inventory:[{id:"minecraft:stone_pickaxe",Slot:35b,components:{"minecraft:custom_data":{"pirate_hat":"1"}}}]}] inventory.26 minecraftplus:item/pirate/pirate_hat_inventory
+
+advancement revoke @s only minecraftplus:items/pirate_hat/armor_head

@@ -1,0 +1,1 @@
+item modify entity @s armor.head minecraftplus:item/mouse/mouse_head
