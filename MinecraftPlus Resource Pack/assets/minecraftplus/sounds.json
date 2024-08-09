@@ -1,0 +1,292 @@
+{
+  "entity.raccoon.ambient": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/raccoon/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/raccoon/idle2",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/raccoon/idle3",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.raccoon.ambient"
+  },
+  "entity.raccoon.hurt": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/raccoon/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/raccoon/idle2",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/raccoon/idle3",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.raccoon.hurt"
+  },
+  "entity.raccoon.death": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/raccoon/idle3",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.raccoon.dies"
+  },
+  "entity.kiwi_bird.ambient": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle2",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle3",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.kiwi_bird.ambient"
+  },
+  "entity.kiwi_bird.hurt": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle2",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle3",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle4",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.kiwi_bird.hurt"
+  },
+  "entity.kiwi_bird.death": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle2",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle3",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/kiwi_bird/idle4",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.kiwi_bird.dies"
+  },
+  "entity.mouse.ambient": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/mouse/idle1",
+        "stream": false,
+        "pitch": 1.5
+      },
+      {
+        "name": "minecraftplus:mob/mouse/idle2",
+        "stream": false,
+        "pitch": 1.5
+      },
+      {
+        "name": "minecraftplus:mob/mouse/idle3",
+        "stream": false,
+        "pitch": 1.5
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.mouse.ambient"
+  },
+  "entity.mouse.hurt": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/mouse/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/mouse/idle2",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/mouse/idle3",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.mouse.hurt"
+  },
+  "entity.mouse.death": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/mouse/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/mouse/idle2",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/mouse/idle3",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.mouse.dies"
+  },
+  "entity.labyrinth_keeper.ambient": {
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/idle1",
+        "stream": false,
+        "pitch": 1.3
+      },
+      {
+        "name": "mob/illusion_illager/idle2",
+        "stream": false,
+        "pitch": 1.3
+      },
+      {
+        "name": "mob/illusion_illager/idle3",
+        "stream": false,
+        "pitch": 1.3
+      },
+      {
+        "name": "mob/illusion_illager/idle4",
+        "stream": false,
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.labyrinth_keeper.ambient"
+  },
+  "entity.labyrinth_keeper.hurt": {
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/hurt1",
+        "stream": false,
+        "pitch": 1.3
+      },
+      {
+        "name": "mob/illusion_illager/hurt2",
+        "stream": false,
+        "pitch": 1.3
+      },
+      {
+        "name": "mob/illusion_illager/hurt3",
+        "stream": false,
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.labyrinth_keeper.hurt"
+  },
+  "entity.labyrinth_keeper.death": {
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/death1",
+        "stream": false,
+        "pitch": 1.3
+      },
+      {
+        "name": "mob/illusion_illager/death2",
+        "stream": false,
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.labyrinth_keeper.dies"
+  },
+
+  "entity.sorcerer.ambient": {
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/idle1",
+        "stream": false,
+        "pitch": 0.75
+      },
+      {
+        "name": "mob/illusion_illager/idle2",
+        "stream": false,
+        "pitch": 0.75
+      },
+      {
+        "name": "mob/illusion_illager/idle3",
+        "stream": false,
+        "pitch": 0.75
+      },
+      {
+        "name": "mob/illusion_illager/idle4",
+        "stream": false,
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.sorcerer.ambient"
+  },
+  "entity.sorcerer.hurt": {
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/hurt1",
+        "stream": false,
+        "pitch": 0.75
+      },
+      {
+        "name": "mob/illusion_illager/hurt2",
+        "stream": false,
+        "pitch": 0.75
+      },
+      {
+        "name": "mob/illusion_illager/hurt3",
+        "stream": false,
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.sorcerer.hurt"
+  },
+  "entity.sorcerer.death": {
+    "sounds": [
+      {
+        "name": "mob/illusion_illager/death1",
+        "stream": false,
+        "pitch": 0.75
+      },
+      {
+        "name": "mob/illusion_illager/death2",
+        "stream": false,
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.sorcerer.dies"
+  },
+  "entity.alligator.ambient": {
+    "sounds": [
+      {
+        "name": "minecraftplus:mob/alligator/idle1",
+        "stream": false
+      },
+      {
+        "name": "minecraftplus:mob/alligator/idle1",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.mcplus.entity.alligator.ambient"
+  }
+}
